@@ -1,6 +1,0 @@
-1. Download XAMPP
-2. Start the Apache and MySQL
-3. Download the PHP Files, Go to your xampp folder -> htdocs -> create a folder named (ws101) -> put the php files
-4. Open Chrome, search localhost/phpmyadmin
-5. Go to Import, Choose file then press Import in the lower part
-6. Working na ang web kapag ganyan, you can message me if u need help
